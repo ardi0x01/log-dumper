@@ -1,4 +1,4 @@
-# Assesment-Telkomsel
+# Example
 for example run just type
 
 version 1 =  "python3 main.py log_path -t type -o output_path"\
